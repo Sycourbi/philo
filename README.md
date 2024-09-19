@@ -1,5 +1,12 @@
 # Philosopher
 
+![C Language](https://img.shields.io/badge/language-C-blue)
+![Threads](https://img.shields.io/badge/threads-yes-brightgreen)
+![Mutex](https://img.shields.io/badge/mutex-yes-blue)
+![Synchronization](https://img.shields.io/badge/synchronization-yes-yellow)
+![Deadlock Prevention](https://img.shields.io/badge/deadlock%20prevention-yes-green)
+
+
 ## Description
 
 Bienvenue sur le dépôt du projet Philosopher de l'École 42. Ce projet consiste à simuler le problème classique des philosophes et du repas. Les philosophes doivent se partager des ressources limitées (fourchettes) pour manger et réfléchir, tout en évitant les situations de deadlock et de starvation.
