@@ -5,7 +5,8 @@
 ![Mutex](https://img.shields.io/badge/mutex-yes-blue)
 ![Synchronization](https://img.shields.io/badge/synchronization-yes-yellow)
 ![Deadlock Prevention](https://img.shields.io/badge/deadlock%20prevention-yes-green)
-
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 
